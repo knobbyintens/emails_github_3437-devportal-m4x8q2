@@ -4,8 +4,8 @@ slug: "beacon-mesh"
 summary: "Edge-device orchestration mesh for distributed sensor fleets."
 repository: "emails_github_3437-devportal-m4x8q2"
 toolkit_path: "toolkits/beacon-mesh"
-release_stage: "general-availability"
-updated: "2026-11-03"
+release_stage: "beta"
+updated: "2025-09-30"
 ---
 
 # Beacon Mesh

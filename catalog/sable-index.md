@@ -2,8 +2,8 @@
 title: "Sable Index"
 slug: "sable-index"
 summary: "Incremental document-indexing service with pluggable extractors."
-release_stage: "general-availability"
-updated: "2026-11-03"
+release_stage: "beta"
+updated: "2025-09-30"
 ---
 
 # Sable Index
