@@ -6,7 +6,6 @@ repository: "emails_github_3437-devportal-m4x8q2"
 toolkit_path: "toolkits/beacon-mesh"
 release_stage: "general-availability"
 updated: "2026-11-03"
-source_url: "https://github.com/knobbyintens/emails_github_3437-devportal-m4x8q2/tree/main/toolkits/beacon-mesh"
 ---
 
 # Beacon Mesh
