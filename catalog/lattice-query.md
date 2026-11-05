@@ -4,8 +4,9 @@ slug: "lattice-query"
 summary: "Analytical query engine for structured event logs and columnar storage."
 repository: "emails_github_3437-devportal-m4x8q2"
 toolkit_path: "toolkits/lattice-query"
-release_stage: "beta"
-updated: "2025-09-30"
+release_stage: "general-availability"
+updated: "2026-11-03"
+source_url: "https://github.com/knobbyintens/emails_github_3437-devportal-m4x8q2/tree/main/toolkits/lattice-query"
 ---
 
 # Lattice Query
